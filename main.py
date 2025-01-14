@@ -7,4 +7,3 @@ grades[2])),(sum(grades[3]) / len(grades[3])),(sum(grades[4]) / len(grades[4]))]
 
 average_grades_dict = dict(zip(list_of_the_students, average_grades))
 print(average_grades_dict)
-
